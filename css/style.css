@@ -976,7 +976,7 @@ section * {
 }
 @media (max-width: 480px) {
   .header-10-sub.v-center > div {
-    padding-top: 35px;
+    padding-top: 50px;
     padding-bottom: 35px;
   }
 }
