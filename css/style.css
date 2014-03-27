@@ -934,7 +934,7 @@ section * {
 @media (max-width: 480px) {
   .header-10 .navbar .brand img:first-child {
   float: left;
-  margin: -50px 15px 0 0;
+  margin: -60px 15px 0 0;
 }
 
 .btn-success {
